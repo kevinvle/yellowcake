@@ -31,7 +31,7 @@ accordion:
 gallery:
   - alt: yellow rope image
     image: https://ucarecdn.com/277cdf82-24aa-4d80-8169-bb46f4cd319d/
-    title: Yellow Rope
+    title: Yellow Ropee
   - alt: umbrellas
     image: https://ucarecdn.com/5da63204-4ff0-4235-aac3-852921d7c632/
     title: a bunch of umbrellas
